@@ -1,0 +1,6 @@
+{
+  "name": "XynoSpace",
+  "description": "Smart Office Space & Seating Management system for Xynotech with multi-building, floor, room, seat, and employee transfer tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
